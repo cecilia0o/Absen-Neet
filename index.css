@@ -1,0 +1,36 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.container-box {
+    background: linear-gradient(135deg, #f87171, #fca5a5);
+    padding: 25px;
+    border-radius: 16px;
+    margin-top: 50px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+.form-box {
+    background-color: #fff7ed;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+h4 {
+    color: #7f1d1d;
+    font-weight: bold;
+}
+
+label {
+    color: #374151;
+    font-weight: 500;
+}
+
+input, select {
+    border-radius: 8px !important;
+}
+
+button {
+    border-radius: 10px !important;
+}
